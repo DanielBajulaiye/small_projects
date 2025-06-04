@@ -19,4 +19,4 @@ A simple Python application to track expenses and calculate total costs.
 A Python program that checks whether a given number is even or odd.
 
 6. Rollercoaster Ride Eligibility Checker  
-   A Python script that checks if a user is tall enough to ride a rollercoaster and calculates ticket price based on age.
+A Python script that checks if a user is tall enough to ride a rollercoaster and calculates ticket price based on age.
